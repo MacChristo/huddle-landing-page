@@ -125,6 +125,7 @@
     background-position: center;
     background-attachment: fixed;
     overflow: hidden;
+    max-width: 1350px;
   }
 
   main {
